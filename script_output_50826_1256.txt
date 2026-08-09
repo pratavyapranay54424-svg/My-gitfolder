@@ -1,0 +1,30 @@
+
+ORA-00907: missing right parenthesis
+
+https://docs.oracle.com/error-help/db/ora-00907/Error at Line: 4 Column: 0 
+
+
+ORA-00907: missing right parenthesis
+
+https://docs.oracle.com/error-help/db/ora-00907/Error at Line: 9 Column: 0 
+
+
+
+Table EMPLOYEE created.
+
+Elapsed: 00:00:00.016
+
+
+Table DEPARTMENT created.
+
+Elapsed: 00:00:00.014
+
+
+4 rows inserted.
+
+Elapsed: 00:00:00.020
+
+
+5 rows inserted.
+
+Elapsed: 00:00:00.014
