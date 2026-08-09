@@ -290,12 +290,7 @@ public:
 
         cout << "\nProduct deleted successfully!\n";
 
-        /*
-            Note:
-            For a college-level project, the hash map/vector
-            are updated here. A complete production BST would
-            also implement BST deletion.
-        */
+     
     }
 
 
